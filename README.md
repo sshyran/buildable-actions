@@ -42,3 +42,15 @@ Check out [docs.buildable.dev](https://docs.buildable.dev) to read more on Actio
 - [Actions Catalog](https://docs.buildable.dev/connections/action-catalog)
 - [Building Workflows](https://docs.buildable.dev/workflows/building-workflows)
 - [Managing Workflows](https://docs.buildable.dev/workflows/managing-workflows)
+
+## Contributors
+
+Supported by a network of early advocates, contributors, and champions!
+
+<a href="https://github.com/buildable/actions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=buildable/actions" />
+</a>
+
+### License
+
+© 2022, Buildable Technologies Inc. - Released under the MIT License
